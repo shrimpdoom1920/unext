@@ -1,0 +1,19 @@
+.select-career-path,
+.select-course {
+  margin-top: 2em;
+  margin-bottom: 1em;
+  font-weight: 200;
+
+}
+
+.wizard-card {
+  text-align: center;
+  color: white;
+  font-size: 2em;
+  font-weight: 300;
+  padding-top: 1.5em;
+  padding-bottom: 1.5em;
+  border-radius: 0;
+  margin: 0.5em 0;
+  background-position: 50% 70%;
+}

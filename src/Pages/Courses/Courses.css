@@ -1,0 +1,25 @@
+.company-card {
+  margin: 10px 0;
+}
+
+.company-img {
+  height: auto;
+  width: 125px;
+  margin-top: 35px;
+}
+
+.tech-stack {
+  margin-top: 20px;
+}
+
+.tech-stack li {
+  display: inline-block;
+}
+
+.tech-stack li {
+  margin-right: 21px;
+}
+
+.tech-stack li span {
+  margin-left: 7px;
+}

@@ -1,0 +1,12 @@
+#become-instructor {
+  margin-top: 0.2em;
+}
+
+.nav-item {
+  margin: 0 0.2em;
+}
+
+.nav-item .btn {
+  border-radius: 0;
+  padding: 0.2em 0.7em;
+}
